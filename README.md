@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Humberto ✋
 
-[![Blog](https://img.shields.io/website?label=MyNoteBook.com&style=for-the-badge&url=https://humbertomonteiro.github.io/mynotebook/)](https://humbertomonteiro.github.io/mynotebook/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/humberto.fh/)
+[![Blog](https://img.shields.io/website?label=MyNoteBook.com&style=for-the-badge&url=https://humbertomonteiro.github.io/mynotebook/)](https://humbertomonteiro.github.io/mynotebook/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/humberto.fh/)
 
 ![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertomonteiro&show_icons=true&theme=dracula)
 
