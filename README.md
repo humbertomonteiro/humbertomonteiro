@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/website?label=MyNoteBook.com&style=for-the-badge&url=https://humbertomonteiro.github.io/mynotebook/)](https://humbertomonteiro.github.io/mynotebook/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/humberto.fh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomonteiro)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style='display: inline_block'>
